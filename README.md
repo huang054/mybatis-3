@@ -21,3 +21,4 @@ Essentials
 * [Download Latest](https://github.com/mybatis/mybatis-3/releases)
 * [Download Snapshot](https://oss.sonatype.org/content/repositories/snapshots/org/mybatis/mybatis/)
 https://www.cnblogs.com/zhjh256/p/8512392.html
+https://www.jianshu.com/p/c28981dead3e
